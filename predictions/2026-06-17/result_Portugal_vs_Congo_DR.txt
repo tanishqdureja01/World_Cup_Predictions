@@ -1,0 +1,12 @@
+============================================================
+  Portugal vs Congo DR
+  2026-06-17  ·  Group K  ·  Houston Stadium
+============================================================
+  Portugal               win    78.2%
+  Draw                          14.5%
+  Congo DR               win     7.3%
+------------------------------------------------------------
+  PICK: Portugal  (78.2%)   [LOCK]
+============================================================
+  Chart saved -> charts/2026-06-17/viz_Portugal_vs_Congo_DR.png
+  Summary saved -> predictions/2026-06-17/result_Portugal_vs_Congo_DR.txt
